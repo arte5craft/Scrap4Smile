@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>app_mode_loader</string>
+	<key>CFBundleIconFile</key>
+	<string>app.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.google.Chrome.app.hkeibahkppopbkembgcgbbjeendndfhh</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Scrap4Smile</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string></string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>6533.89</string>
+	<key>CrAppModeShortcutID</key>
+	<string>hkeibahkppopbkembgcgbbjeendndfhh</string>
+	<key>CrAppModeShortcutName</key>
+	<string>Scrap4Smile</string>
+	<key>CrAppModeShortcutURL</key>
+	<string>https://www.appsheet.com/start/cb5d1add-c3c5-40d3-9a2d-9009ef7854f0?platform=desktop#vss=H4sIAAAAAAAAA6XOsQ7CIBQF0H-5M1_AahyM0UXjIg7P8poQKTSFVhvCvwumxlkdueTcdxMmw_dDpOYGeU6f15ZnSCSF49yzglRYeRcHbxWEwp66JSTLTtOgkJEv4u0jB8j0HZf_XRcwml00reGhdlVZOhZXvquqwWKQBbox0tXya3AxOZes9c0YWJ_KlB8mhI1bP3pyeud1qWzJBs5PZkXeSmUBAAA=&amp;view=Calendar&amp;appName=EcoCycle-633599625-24-08-31-2</string>
+	<key>CrAppModeUserDataDir</key>
+	<string>/Users/dhyeya/Library/Application Support/Google/Chrome/-/Web Applications/_crx_hkeibahkppopbkembgcgbbjeendndfhh</string>
+	<key>CrBundleIdentifier</key>
+	<string>com.google.Chrome</string>
+	<key>CrBundleVersion</key>
+	<string>127.0.6533.89</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTSDKBuild</key>
+	<string>23A334</string>
+	<key>DTSDKName</key>
+	<string>macosx14.0</string>
+	<key>DTXcode</key>
+	<string>1500</string>
+	<key>DTXcodeBuild</key>
+	<string>15A240d</string>
+	<key>LSEnvironment</key>
+	<dict>
+		<key>MallocNanoZone</key>
+		<string>0</string>
+	</dict>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.15</string>
+	<key>NSAppleScriptEnabled</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
